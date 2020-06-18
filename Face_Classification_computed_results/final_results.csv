@@ -1,0 +1,2 @@
+,Number of features,Accuracy,Error,Precision,F1-score,Recall
+k-LDA + k-PCA + LDA + PCA,250,1.0,0.0,1.0,1.0,1.0
