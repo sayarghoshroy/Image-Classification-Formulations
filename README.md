@@ -2,7 +2,7 @@
 
 ### Insights and Analysis - Using Various Deep Learning Architectures on Image Classification Datasets
 
-### The jupyter notebooks contain necessary theory and mathematical formulations
+> The jupyter notebooks contain necessary theory and mathematical formulations
 
 ---
 
@@ -21,6 +21,8 @@
   - Classfication
   - Outlier Detection
   - Regression
+  
+For Performance using 10 One-vs-Rest classifiers and <sup>10</sup>C<sub>2</sub> Binary Classifiers on MNIST, go [here](https://github.com/sayarghoshroy/Multiclass_Classification).
 
 ---
   
