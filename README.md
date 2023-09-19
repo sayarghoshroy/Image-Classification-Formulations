@@ -2,7 +2,9 @@
 
 ### Insights and Analysis - Using Various Deep Learning Architectures on Image Classification Datasets
 
-> The jupyter notebooks contain necessary theory and mathematical formulations
+> The Jupyter notebooks contain necessary theory and mathematical formulations
+
+For more on multiclass image classification formulations, check out [this repo](https://github.com/sayarghoshroy/Multiclass_Classification).
 
 ---
 
@@ -17,8 +19,8 @@
   - Maximum a Posteriori Estimation
   - Bayesian Pairwise Majority Voting
   - Simple Perpendicular Bisector Majority Voting
-- Nearest Neighbour based Tasks
-  - Classfication
+- Nearest Neighbor based Tasks
+  - Classification
   - Outlier Detection
   - Regression
   
@@ -30,7 +32,7 @@ For Performance using 10 One-vs-Rest classifiers and <sup>10</sup>C<sub>2</sub> 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/Image-Classification-Formulations/blob/master/Face_Classification.ipynb)
 
-- Study of impact of various feature sets: PCA, k-PCA, LDA, k-LDA, VGGNet, Resnet
+- Study of the impact of various feature sets: PCA, k-PCA, LDA, k-LDA, VGGNet, Resnet
 - Number of components for reasonable reconstruction
 - Classification Formulations: MLP, SVM, D-Tree, Logistic Regression
 - Confusion Matrices and t-SNE Visualization
